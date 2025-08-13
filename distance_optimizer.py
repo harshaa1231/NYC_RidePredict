@@ -283,15 +283,15 @@ class DistanceOptimizer:
             if 'trip_distance_km' in data.columns:
                 # Average trip distance
                 avg_distance = data['trip_distance_km'].mean()
-                insights.append(f"🛣️ Average trip distance: {avg_distance:.1f} km")
+                insights.append(f" Average trip distance: {avg_distance:.1f} km")
                 
                 # Price per kilometer analysis
                 avg_price_per_km = data['price_per_km'].median()
-                insights.append(f"💰 Median rate: ${avg_price_per_km:.2f} per kilometer")
+                insights.append(f" Median rate: ${avg_price_per_km:.2f} per kilometer")
                 
                 # Most common trip type
                 most_common_trip = data['trip_type'].mode().iloc[0]
-                insights.append(f"🚕 Most common trips: {most_common_trip}")
+                insights.append(f" Most common trips: {most_common_trip}")
                 
                 # Long distance premium
                 short_trips = data[data['trip_distance_km'] < 2]['price_per_km'].median()
@@ -299,14 +299,14 @@ class DistanceOptimizer:
                 
                 if long_trips < short_trips:
                     discount = ((short_trips - long_trips) / short_trips) * 100
-                    insights.append(f"📉 Long trips get {discount:.1f}% better rate per km")
+                    insights.append(f" Long trips get {discount:.1f}% better rate per km")
                 
                 # Distance from center impact
                 if 'distance_from_center' in data.columns:
                     center_correlation = data['distance_from_center'].corr(data['price'])
                     if abs(center_correlation) > 0.1:
                         direction = "higher" if center_correlation > 0 else "lower"
-                        insights.append(f"🏙️ Trips farther from center tend to have {direction} prices")
+                        insights.append(f" Trips farther from center tend to have {direction} prices")
             
             return insights
             
