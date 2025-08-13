@@ -2,10 +2,6 @@
 
 A comprehensive machine learning application for predicting and analyzing ride-sharing prices with advanced features for surge pricing, distance optimization, and business intelligence.
 
-## 🚀 Live Demo
-
-[Live Application](https://your-replit-app-url.replit.app) | [GitHub Repository](https://github.com/yourusername/rideshare-price-predictor)
-
 ## 🎯 Business Impact
 
 This project addresses real-world challenges in the ride-sharing industry, demonstrating skills directly applicable to companies like **Uber**, **Lyft**, and other transportation platforms:
@@ -180,33 +176,30 @@ This project demonstrates proficiency in:
 ## 📚 Future Enhancements
 
 ### Technical Improvements
-- [ ] Real-time data streaming integration
-- [ ] Advanced deep learning models (LSTM, Transformer)
-- [ ] A/B testing framework for pricing strategies
-- [ ] API development for external integrations
+- Real-time data streaming integration
+- Advanced deep learning models (LSTM, Transformer)
+- A/B testing framework for pricing strategies
+- API development for external integrations
 
 ### Business Features
-- [ ] Multi-city expansion (SF, LA, Chicago)
-- [ ] Weather impact analysis
-- [ ] Event-based pricing (concerts, sports)
-- [ ] Driver supply optimization
+- Multi-city expansion (SF, LA, Chicago)
+- Weather impact analysis
+- Event-based pricing (concerts, sports)
+- Driver supply optimization
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 About the Developer
 
-Built by [Your Name] - Demonstrating advanced data science and machine learning capabilities for ride-sharing industry applications.
+Built by [Harsha Talapaka]
 
 **Connect with me:**
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
-- [Portfolio](https://yourportfolio.com)
+- [LinkedIn](https://linkedin.com/in/harsha-talapaka/)
+- [GitHub](https://github.com/harshaa1231)
+- [Portfolio](https://harshaa1231.github.io/HarshaPortfolio.github.io/)
 
 ---
 
