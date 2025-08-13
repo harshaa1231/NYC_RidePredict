@@ -2,7 +2,7 @@
 
 A comprehensive machine learning application for predicting and analyzing ride-sharing prices with advanced features for surge pricing, distance optimization, and business intelligence.
 <img width="1512" height="982" alt="Screenshot 2025-08-13 at 6 39 43 PM" src="https://github.com/user-attachments/assets/9ff7c97f-eb12-4859-861a-1fb93ae63471" />
-<img width="1512" height="982" alt="Screenshot 2025-08-13 at 6 39 52 PM" src="https://github.com/user-attachments/assets/95e49a87-383e-4605-a628-3d5d760351ee" />
+<img width="1512" height="982" alt="Screenshot 2025-08-13 at 6 45 24 PM" src="https://github.com/user-attachments/assets/cec603d2-e50f-48e3-8631-b338457284d1" />
 <img width="1512" height="982" alt="Screenshot 2025-08-13 at 6 39 56 PM" src="https://github.com/user-attachments/assets/34e1ac4e-8892-4f7b-a3d4-26b57e414dfc" />
 <img width="1512" height="982" alt="Screenshot 2025-08-13 at 6 40 37 PM" src="https://github.com/user-attachments/assets/cc4dbf87-65f3-4394-bc3e-95b26875b7e1" />
 <img width="1512" height="982" alt="Screenshot 2025-08-13 at 6 40 49 PM" src="https://github.com/user-attachments/assets/643b0859-bdce-4a38-b337-31feb6748c4f" />
